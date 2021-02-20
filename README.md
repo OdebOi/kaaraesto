@@ -1,4 +1,6 @@
 # Mikä tämä on?
+Yksinkertainen scripti, joka toimii näin:
+
 1. Henkilö, joka ei ole viranomainen menee hälytysajoneuvoon sisään.
 2. Scripti lähettää reportin ylläpidolle jossa defaultina lukee: "Varastin hälytysajoneuvon!!"
 
