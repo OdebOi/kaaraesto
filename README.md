@@ -1,16 +1,15 @@
 # Mikä tämä on?
-Yksinkertainen scripti, joka toimii näin:
+Hyvin simppeli scripti, joka toimii näin
 
 1. Henkilö, joka ei ole viranomainen menee hälytysajoneuvoon sisään.
 2. Scripti lähettää reportin ylläpidolle jossa defaultina lukee: "Varastin hälytysajoneuvon!!"
+Näin serverin ylläpito tietää jos joku koittaa varastaa vaikka poliisiautoa.
 
 # Asennus (beginners)
-Laita scripti serverisi tiedostoihin, esimerkiksi [scriptit].
+Laita scripti serverisi resourceihin
 
-Kirjoita server.cfg tiedostoon
+kyseinen teksti server.cfg
 
 "start kaaraesto" - Tai millä nimellä ikinä nimeätkään tämän
 
 DONE
-
-# ^OdebOi#6666 - DISCORD
